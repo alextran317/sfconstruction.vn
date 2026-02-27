@@ -218,7 +218,7 @@
                             </a>
                             <a href="javascript:void(0)" target="_blank">
                                 <img src="/images/facebook.png"
-                                    alt="Youtube SF construction" />
+                                    alt="Facebook SF construction" />
                             </a>
                         </div>
                     </div>
