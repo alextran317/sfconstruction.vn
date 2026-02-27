@@ -13,7 +13,7 @@
 collaboration idea, please send us an email
 and we’ll reply within 24 hours.</p>
 			<p><i class="fas fa-phone-alt fa-lg"></i> &nbsp +84 972897625</p>
-			<p><i class="fas fa-envelope fa-lg"></i> &nbsp ninhnau88@gmail.com</p>
+			<p><i class="fas fa-envelope fa-lg"></i> &nbsp congvien20232024@gmail.com</p>
 			<p><i class="fas fa-map-marker-alt fa-lg"></i> &nbsp Hanoi, Vietnam</p>
 		</div>
 

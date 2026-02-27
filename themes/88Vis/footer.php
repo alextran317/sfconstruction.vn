@@ -66,6 +66,7 @@
                                 <li><strong><span style="text-decoration: underline;"><span style="color: #800000; text-decoration: underline;">Văn phòng CS3</span></span>:</strong> Xóm 3 - Xã Gia Trung - Huyện Gia Viễn - Tỉnh Ninh Bình</li>
                             </ul>
                             <p><strong>Hotline:</strong> <a href="tel:0971338958"><span style="color: #000080;"><strong>0971.338.958</strong></span></a></p>
+                            <p><strong>Gmail:</strong> <a href="mailto:congvien20232024@gmail.com"><span style="color: #000080;"><strong>congvien20232024@gmail.com</strong></span></a></p>
                             <p><strong>Thời gian làm việc: </strong>8:00 &#8211; 18:00 (Thứ 2 - Thứ 7)</p>
                         </div>
                     </div>
