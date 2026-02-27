@@ -138,13 +138,13 @@
                                     <p class="ft-social-item-text">Facebook SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
-                                <a class="ft-social-item" href="javascript:void(0)" target="_blank"
+                                <a class="ft-social-item" href="https://www.tiktok.com/@sf.construction5" target="_blank"
                                     rel="nofollow">
                                     <div class="ft-social-item-icon thumb-cover fleft">
-                                        <img src="/images/youtube.webp"
-                                            alt="Youtube SF construction" />
+                                        <img src="/images/tik-tok.webp"
+                                            alt="Tiktok SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Youtube SF Contruction</p>
+                                    <p class="ft-social-item-text">Tiktok SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
                                 <a class="ft-social-item" href="https://zalo.me/0971338958" target="_blank"
@@ -156,13 +156,13 @@
                                     <p class="ft-social-item-text">Zalo SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
-                                <a class="ft-social-item" href="https://www.tiktok.com/@sf.construction5" target="_blank"
+                                <a class="ft-social-item" href="javascript:void(0)" target="_blank"
                                     rel="nofollow">
                                     <div class="ft-social-item-icon thumb-cover fleft">
-                                        <img src="/images/tik-tok.webp"
-                                            alt="Tiktok SF construction" />
+                                        <img src="/images/youtube.webp"
+                                            alt="Youtube SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Tiktok SF Contruction</p>
+                                    <p class="ft-social-item-text">Youtube SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
                             </div>
@@ -216,7 +216,7 @@
                                 <img src="/images/icon-zalo.webp"
                                     alt="Tiktok SF construction" />
                             </a>
-                            <a href="javascript:void(0)" target="_blank">
+                            <a href="https://www.facebook.com/profile.php?id=61588633538983" target="_blank">
                                 <img src="/images/facebook.png"
                                     alt="Facebook SF construction" />
                             </a>
