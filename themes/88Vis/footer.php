@@ -65,7 +65,7 @@
                                 <li><strong><span style="text-decoration: underline;"><span style="color: #800000; text-decoration: underline;">Văn phòng CS2</span></span>:</strong> Xóm 3 - Xã Khánh Thành - Huyện Yên Khánh - Tỉnh Ninh Bình</li>
                                 <li><strong><span style="text-decoration: underline;"><span style="color: #800000; text-decoration: underline;">Văn phòng CS3</span></span>:</strong> Xóm 3 - Xã Gia Trung - Huyện Gia Viễn - Tỉnh Ninh Bình</li>
                             </ul>
-                            <p><strong>Hotline:</strong> <span style="color: #000080;"><strong>0919.365.522</strong> && <strong>0975.919.711</strong></span></p>
+                            <p><strong>Hotline:</strong> <a href="tel:0971338958"><span style="color: #000080;"><strong>0971.338.958</strong></span></a></p>
                             <p><strong>Thời gian làm việc: </strong>8:00 &#8211; 18:00 (Thứ 2 - Thứ 7)</p>
                         </div>
                     </div>
@@ -128,13 +128,13 @@
                         <div class="footer-item-head">Kết nối với chúng tôi</div>
                         <div class="footer-item-content footer-item-nav">
                             <div class="ft-social">
-                                <a class="ft-social-item" href="javascript:void(0)"
+                                <a class="ft-social-item" href="https://www.facebook.com/profile.php?id=61588633538983"
                                     target="_blank" rel="nofollow">
                                     <div class="ft-social-item-icon thumb-cover fleft">
                                         <img src="/images/facebook.png"
                                             alt="Facebook SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Facebook SF construction</p>
+                                    <p class="ft-social-item-text">Facebook SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
                                 <a class="ft-social-item" href="javascript:void(0)" target="_blank"
@@ -143,25 +143,25 @@
                                         <img src="/images/youtube.webp"
                                             alt="Youtube SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Youtube SF construction</p>
+                                    <p class="ft-social-item-text">Youtube SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
-                                <a class="ft-social-item" href="https://zalo.me/0975919711" target="_blank"
+                                <a class="ft-social-item" href="https://zalo.me/0971338958" target="_blank"
                                     rel="nofollow">
                                     <div class="ft-social-item-icon thumb-cover fleft">
                                         <img src="/images/icon-zalo.webp"
                                             alt="Zalo SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Zalo SF construction</p>
+                                    <p class="ft-social-item-text">Zalo SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
-                                <a class="ft-social-item" href="javascript:void(0)" target="_blank"
+                                <a class="ft-social-item" href="https://www.tiktok.com/@sf.construction5" target="_blank"
                                     rel="nofollow">
                                     <div class="ft-social-item-icon thumb-cover fleft">
                                         <img src="/images/tik-tok.webp"
                                             alt="Tiktok SF construction" />
                                     </div>
-                                    <p class="ft-social-item-text">Tiktok SF construction</p>
+                                    <p class="ft-social-item-text">Tiktok SF Contruction</p>
                                     <div class="cboth"></div>
                                 </a>
                             </div>
@@ -210,8 +210,8 @@
                     <div class="popup-contact-bottom">
                         <!-- <p class="popup-contact-note">Hoặc gọi hotline để được tư vấn ngay</p> -->
                         <div class="popup-contact-link footer-social">
-                            <a href="tel:0975919711"><i class="far fa-phone-alt"></i> 0975.919.711</a>
-                            <a href="https://zalo.me/0975919711" target="_blank">
+                            <a href="tel:0971338958"><i class="far fa-phone-alt"></i> 0971.338.958</a>
+                            <a href="https://zalo.me/0971338958" target="_blank">
                                 <img src="/images/icon-zalo.webp"
                                     alt="Tiktok SF construction" />
                             </a>
@@ -230,11 +230,11 @@
         <span>TOP</span>
     </div>
     <div class="chat-scroll">
-        <a class="chat-scroll-item" href="https://zalo.me/0975919711" target="_blank" rel="nofollow">
+        <a class="chat-scroll-item" href="https://zalo.me/0971338958" target="_blank" rel="nofollow">
             <img src="/images/icon-zalo.png" alt="Zalo" />
             <span>Zalo</span>
         </a>
-        <a class="chat-scroll-item" href="tel:0975919711" target="_blank" rel="nofollow">
+        <a class="chat-scroll-item" href="tel:0971338958" target="_blank" rel="nofollow">
             <img src="/images/icon-phone.png" alt="Phone" />
             <span>Phone</span>
         </a>
