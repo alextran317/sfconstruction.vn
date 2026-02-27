@@ -1,0 +1,13 @@
+.cboth{clear:both}
+.fleft{float:left}
+.fright{float:right}
+.bsize{box-sizing:border-box}
+.oflow{overflow:hidden}
+.dnone{display:none}
+.tf{text-transform:uppercase}
+.lp1{letter-spacing:1px}
+.white-space{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.home-news-item-title a:hover,
+.post-related-item a:hover,
+.box-author-meta a:hover,
+.footer-item-nav li a:hover{color:var(--th-color-orange)}
